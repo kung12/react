@@ -1,2 +1,2 @@
 # react
-My React App. Adds to numbers together.
+My React App. Adds two numbers together.
